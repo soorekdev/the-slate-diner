@@ -1,6 +1,6 @@
 # The Slate Diner
 
-A modern, responsive restaurant website built as part of The Odin Project curriculum.
+A modern, desktop-focused restaurant website built as part of The Odin Project curriculum.
 
 The Slate Diner showcases a restaurant website experience with a clean interface, thoughtfully structured pages, and an engaging design.
 
@@ -22,7 +22,9 @@ The Slate Diner showcases a restaurant website experience with a clean interface
 - npm
 
 
-- ## Getting Started
+
+
+## Getting Started
 
 ### Prerequisites
 
@@ -68,5 +70,5 @@ npm run build
 
 ## Project Status
 
-The Slate Diner was developed as part of The Odin Project's JavaScript curriculum. The project focuses on practicing modular JavaScript, DOM manipulation, responsive web design, and Webpack configuration.
+The Slate Diner was developed as part of The Odin Project's JavaScript curriculum. The project focuses on practicing modular JavaScript, DOM manipulation, desktop-focused web design, and Webpack configuration.
 
