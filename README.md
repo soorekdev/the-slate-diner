@@ -1,6 +1,9 @@
 # The Slate Diner
 
 A modern, desktop-focused restaurant website built as part of The Odin Project curriculum.
+## Preview
+
+![The Slate Diner Homepage](homepage.png.png)
 
 The Slate Diner showcases a restaurant website experience with a clean interface, thoughtfully structured pages, and an engaging design.
 
